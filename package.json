@@ -1,0 +1,21 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "g-i-s": "^2.1.6",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "url-exist": "^3.0.0",
+    "url-exists": "^1.0.3"
+  }
+}
